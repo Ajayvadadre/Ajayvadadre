@@ -13,7 +13,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ajayvadadre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajayvadadre" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Ajay Vadadre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay vadadre" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajay-vadadre-546ba4215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay vadadre" height="30" width="40" /></a>
 <a href="https://instagram.com/ajay_vadadre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajay_vadadre" height="30" width="40" /></a>
 <a href="https://www.behance.net/ajvadadre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ajvadadre" height="30" width="40" /></a>
 </p>
