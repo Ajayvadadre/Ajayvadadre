@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React,MongoDb,javascript**
 
-- 📫 How to reach me **ajvadadre123@gmail.com**
+- 📫 How to reach me **ajvadadre1234@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
