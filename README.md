@@ -1,4 +1,5 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+
+<img width="1834" alt="Make your README" src="https://github.com/Ajayvadadre/Ajayvadadre/assets/108525071/0b038f1c-0ffa-4358-b334-845e97e73c5f">
 <h1 align="center">Hi 👋, I'm Ajay vadadre</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" align="right" alt="coding" width="400">
