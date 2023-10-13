@@ -1,6 +1,6 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/Ajayvadadre/Ajayvadadre/assets/108525071/0b038f1c-0ffa-4358-b334-845e97e73c5f">
-<img src="https://th.bing.com/th/id/OIG.Om5gBQ1OovraLTrqUuON?pid=ImgGn" align="right" alt="coding" width="400">
+<img src="https://th.bing.com/th/id/OIG.Dov2TZ4HWLvSRTEZvvM5?pid=ImgGn" align="right" alt="coding" width="300" height="300">
 
 <p align="left"> <a href="https://twitter.com/ajayvadadre" target="blank"><img src="https://img.shields.io/twitter/follow/ajayvadadre?logo=twitter&style=for-the-badge" alt="ajayvadadre"></a> </p>
 
