@@ -1,7 +1,7 @@
 
 <img width="1834" alt="Make your README" src="https://github.com/Ajayvadadre/Ajayvadadre/assets/108525071/0b038f1c-0ffa-4358-b334-845e97e73c5f">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayvadadre&label=Profile%20views&color=0e75b6&style=flat" alt="ajayvadadre"> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meh-work" alt="meh-work" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meh-work" alt="meh-work" /></a> </p> -->
 <p align="left"> <a href="https://twitter.com/ajayvadadre" target="blank"><img src="https://img.shields.io/twitter/follow/ajayvadadre?logo=twitter&style=for-the-badge" alt="ajayvadadre"></a> </p>
 
 - 🔭 I’m currently working on **Shoes Dekh E commerce website**
