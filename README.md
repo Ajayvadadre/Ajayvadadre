@@ -9,12 +9,5 @@ Working on understanding the backend architecture in deep and explore more into 
 Email: ajvadadre1234@gmail.com
 
 ### Connect
-- LinkedIn: https://linkedin.com
-- Twitter: https://twitter.com
-- Instagram: https://instagram.com
-- Behance: https://behance.net
-
-### GitHub Statistics
-- Profile Views: https://komarev.com
-- Stats: https://vercel.app
-- Languages: https://vercel.app
+- LinkedIn: https://www.linkedin.com/in/ajay-vadadre
+- Twitter: https://x.com/AjayVadadre
